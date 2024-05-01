@@ -14,4 +14,5 @@ In this task, you'll create a Meteor method that takes an argument and returns i
 This task includes a test file, 'component.test.js'. To run the tests, use the following command:
 
 ```bash
-meteor test --driver-package meteortesting:mocha --full-app
+  npm test
+```

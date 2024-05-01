@@ -14,3 +14,4 @@ This task includes a test file, 'component.test.js'. To run the tests, use the f
 
 ```bash
 npm test
+```
