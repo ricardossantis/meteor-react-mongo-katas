@@ -23,6 +23,39 @@ Before you start, make sure you have the following installed:
 4. Write your solution in the provided starter code file.
 5. Run the tests to check your solution.
 
+## Contributions: Challenges, Solutions, and More
+
+### Solutions
+
+This repository includes a separate branch named `solutions` where you can find the completed tasks for reference.
+
+We encourage each developer to create their own branch and push their solutions. This way, we can learn from each other's approaches and improve our code collectively.
+
+To create a new branch, use the following command:
+
+```bash
+git checkout -b your-branch-name
+```
+
+### New challenges
+
+We welcome new challenges! If you have a task that you think would be a good fit for this project, feel free to contribute. Here's how:
+
+1. Create a new branch for your challenge.
+2. In your branch, add a new directory for your challenge. The directory should include:
+    - A JavaScript file with the code to be implemented.
+    - A test file for the code.
+    - A README file with the task description and requirements.
+3. Open a pull request with your challenge. Please ensure your code is functional and your task is clearly described in the README.
+
+We also welcome solutions to the challenges. If you have a solution, please:
+
+1. Create a new branch for your solution.
+2. In your branch, implement your solution in the provided starter code file.
+3. Open a separate pull request with your solution. Please ensure your solution is fully functional and passes all tests before opening a pull request.
+
+This way, we can continuously grow and improve this project together. Thank you for your contributions!
+
 ## Resources
 
 Here are some resources to help you along the way:
