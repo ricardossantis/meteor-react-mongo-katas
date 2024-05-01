@@ -8,7 +8,7 @@ import DisplayPropComponent from './component';
 configure({ adapter: new Adapter() });
 
 if (Meteor.isServer) {
-    describe('<DisplayPropComponent />', () => {
+    describe('Display prop component />', () => {
         it('renders without crashing', () => {
             shallow(<DisplayPropComponent propToDisplay="Test Prop" />);
         });
