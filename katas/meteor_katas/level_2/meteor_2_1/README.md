@@ -11,7 +11,7 @@ In this task, you'll create a Meteor method that takes an argument and returns i
 
 ## Testing
 
-This task includes a test file, 'method.test.js'. To run the tests, use the following command:
+This task includes a test file, 'component.test.js'. To run the tests, use the following command:
 
 ```bash
 meteor test --driver-package meteortesting:mocha --full-app

@@ -72,10 +72,13 @@ Remember, the key to mastering these technologies is practice and repetition. Do
 **Meteor:**
 1. **Level 1:** Write a Meteor method that returns a static string.
 2. **Level 2:** Create a Meteor method that takes an argument and returns it.
-3. **Level 3:** Develop a Meteor method that interacts with a MongoDB collection (like inserting a document).
-4. **Level 4:** Write a Meteor method that performs a complex query on a MongoDB collection.
-5. **Level 5:** Create a Meteor publication that publishes documents from a MongoDB collection.
-6. **Level 6:** Develop a Meteor method that calls an external API and stores the result in a MongoDB collection.
+3. **Level 3:** Write a Meteor method that uses the publishComposite package to publish related documents from different collections.
+4. **Level 4:** Implement a builder design pattern using closures in Meteor. The builder should be able to construct a complex object step by step. The builder should provide different implementations of steps that are used to build the object.
+5. **Level 5:** Implement a factory design pattern in Meteor. The factory should be able to create different types of objects based on the input it receives. It should have a method for each type of object it can create.
+6. **Level 6:** Use the useTracker React hook in a Meteor application to reactively access Meteor data. The hook should be used in a complex component that has multiple states and effects. The component should also handle subscriptions and fetch data from multiple collections.
+7. **Level 7:** Write a Meteor method that uses the check package to check the types and structure of its arguments. The method should perform a complex operation that requires multiple arguments of different types. The method should also handle possible errors and edge cases.
+8. **Level 8:** Implement a Meteor method that uses the validated-method package for complex validation logic. The method should perform a complex operation that requires multiple arguments with complex validation rules. The validation should include both type checking and logical conditions.
+9. **Level 9:** Write a Meteor method that uses the http package to call an external API. The method should handle errors, retry on failure, and store the result in a MongoDB collection. The method should also handle pagination if the API supports it, and fetch all the data by making multiple requests if necessary.
 
 **React:**
 1. **Level 1:** Create a functional component in React that displays a prop.
